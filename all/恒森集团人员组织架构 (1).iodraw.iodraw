@@ -224,7 +224,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-73" target="8iIiTADPgSn-rrUCegqI-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-73" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;阀体车间&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;殷明科&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-73" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;阀体车间&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;殷明科&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2370" y="1680.6799999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-74" value="&lt;b&gt;A班&lt;/b&gt;&lt;div&gt;屠凯&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
