@@ -242,16 +242,13 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-78" value="&lt;b&gt;数控车间&lt;/b&gt;&lt;div&gt;&lt;b&gt;王彬彬&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2340" y="1952.56" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-81" target="8iIiTADPgSn-rrUCegqI-315">
+        <mxCell id="ke16l3yXehb4eER1hfoE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-81" target="8iIiTADPgSn-rrUCegqI-317">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2527" y="2030" />
-              <mxPoint x="-2587" y="2030" />
+              <mxPoint x="-2504" y="2030" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-81" target="8iIiTADPgSn-rrUCegqI-317">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-81" value="&lt;b&gt;走心机&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2560" y="1952.5599999999997" width="67" height="60" as="geometry" />
