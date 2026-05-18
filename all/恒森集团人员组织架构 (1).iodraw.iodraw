@@ -801,6 +801,9 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-251" value="电子半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5680" y="2026.1799999999998" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ke16l3yXehb4eER1hfoE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-252" target="ke16l3yXehb4eER1hfoE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-252" value="智控半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5560" y="2026.1799999999998" width="110" height="60" as="geometry" />
         </mxCell>
