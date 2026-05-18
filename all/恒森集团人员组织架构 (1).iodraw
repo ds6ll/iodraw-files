@@ -139,7 +139,7 @@
           <mxGeometry x="-9542" y="1880.43" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-40" value="&lt;b&gt;气动转床&lt;/b&gt;&lt;div&gt;&lt;b&gt;周建武&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9407" y="1880.43" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9407" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-42" target="8iIiTADPgSn-rrUCegqI-189" edge="1">
           <mxGeometry relative="1" as="geometry" />
