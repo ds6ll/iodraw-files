@@ -911,7 +911,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-293" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 48px;&quot;&gt;恒森集团&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4902.5" y="880" width="235" height="140" as="geometry" />
+          <mxGeometry x="-4894.5" y="915" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-295" target="8iIiTADPgSn-rrUCegqI-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
