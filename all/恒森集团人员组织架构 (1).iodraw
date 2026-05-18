@@ -1006,7 +1006,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-40" value="&lt;b&gt;气动转床&lt;/b&gt;&lt;div&gt;&lt;b&gt;周建武&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-9407" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-9" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;b style=&quot;background-color: initial; color: rgb(69, 69, 69); font-size: 11px;&quot;&gt;&lt;i&gt;冯冰儿&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="ke16l3yXehb4eER1hfoE-9" value="&lt;p style=&quot;line-height: 0%;&quot;&gt;&lt;b style=&quot;background-color: initial; color: rgb(69, 69, 69); font-size: 11px;&quot;&gt;&lt;i&gt;冯冰儿&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=center;pointerEvents=1;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="-7387.5" y="1485.87" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ke16l3yXehb4eER1hfoE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-111" target="ke16l3yXehb4eER1hfoE-9">
