@@ -275,7 +275,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-89" value="&lt;b&gt;1号线&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1960" y="2029.1000000000001" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-94" target="8iIiTADPgSn-rrUCegqI-98" edge="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-94" target="8iIiTADPgSn-rrUCegqI-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-94" target="8iIiTADPgSn-rrUCegqI-310" edge="1">
@@ -508,8 +508,7 @@
             <mxPoint x="-3856.499999999998" y="1691.0600000000002" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3915" y="1640" />
-              <mxPoint x="-3857" y="1640" />
-              <mxPoint x="-3857" y="1691" />
+              <mxPoint x="-3840" y="1640" />
             </Array>
           </mxGeometry>
         </mxCell>
