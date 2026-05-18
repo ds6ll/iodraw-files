@@ -864,7 +864,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-113" target="8iIiTADPgSn-rrUCegqI-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-113" value="&lt;h2&gt;智控&lt;/h2&gt;&lt;div&gt;邱声润&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-113" value="&lt;h2&gt;智控&lt;/h2&gt;&lt;div&gt;邱声润&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4172.5" y="1659.0600000000002" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-114" value="&lt;b&gt;冯冰儿&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
@@ -1032,7 +1032,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-169" target="8iIiTADPgSn-rrUCegqI-170" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-169" value="&lt;h2&gt;电子&lt;/h2&gt;&lt;div&gt;&lt;b style=&quot;text-align: left; white-space: nowrap;&quot;&gt;张永涛&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-169" value="&lt;h2&gt;电子&lt;/h2&gt;&lt;div&gt;&lt;b style=&quot;text-align: left; white-space: nowrap;&quot;&gt;张永涛&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-3802.5" y="1659.0600000000002" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-170" value="&lt;b&gt;何桥枫&lt;/b&gt;&lt;div&gt;&lt;b&gt;陈锡坚&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;詹钱勇&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;刘聪&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
@@ -1303,7 +1303,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-251" value="电子半成品" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5720" y="1947.4299999999998" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-252" value="智控半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-252" value="智控半成品" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5600" y="1947.4299999999998" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-253" value="&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;table style=&quot;border-collapse:collapse;width:48.63pt;&quot; height=&quot;78&quot; width=&quot;81&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;width:48.60pt;&quot; width=&quot;81&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.60pt;&quot; height=&quot;26&quot;&gt;  &lt;td style=&quot;height:15.60pt;width:48.60pt;&quot; width=&quot;81&quot; height=&quot;26&quot; class=&quot;et3&quot;&gt;&lt;b&gt;华银宝&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.60pt;&quot; height=&quot;26&quot;&gt;  &lt;td style=&quot;height:15.60pt;&quot; height=&quot;26&quot; class=&quot;et3&quot;&gt;&lt;b&gt;陆潇&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.60pt;&quot; height=&quot;26&quot;&gt;  &lt;td style=&quot;height:15.60pt;&quot; height=&quot;26&quot; class=&quot;et3&quot;&gt;&lt;b&gt;陈磊&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
