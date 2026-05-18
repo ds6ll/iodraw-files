@@ -1010,6 +1010,9 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-40" value="&lt;b&gt;气动转床&lt;/b&gt;&lt;div&gt;&lt;b&gt;周建武&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-9407" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ke16l3yXehb4eER1hfoE-8" value="何水良&lt;br&gt;李江社&lt;br&gt;陈兴琼&lt;br&gt;王雪萍&lt;br&gt;张平虎" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontFamily=Helvetica;fontSize=11;fontColor=#454545;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-9920" y="2010" width="50" height="273.94" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
