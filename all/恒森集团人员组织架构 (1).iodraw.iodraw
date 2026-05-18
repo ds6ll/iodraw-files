@@ -753,7 +753,7 @@
             <mxPoint x="-6080" y="1975.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-238" target="8iIiTADPgSn-rrUCegqI-240">
+        <mxCell id="ke16l3yXehb4eER1hfoE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0080;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-238" target="8iIiTADPgSn-rrUCegqI-240">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-238" value="&lt;h2&gt;仓储&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
@@ -766,7 +766,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-240" value="&lt;h2&gt;计划&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-5440" y="1863.6799999999998" width="120" height="80" as="geometry" />
+          <mxGeometry x="-5440" y="1870.6799999999998" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-241" value="成品仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-6220" y="2026.1799999999998" width="110" height="60" as="geometry" />
