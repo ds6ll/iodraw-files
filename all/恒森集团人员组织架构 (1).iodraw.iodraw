@@ -1017,14 +1017,8 @@
         <mxCell id="ke16l3yXehb4eER1hfoE-12" value="&lt;b style=&quot;text-align: left; white-space: nowrap; background-color: initial; color: rgb(69, 69, 69); font-size: 11px;&quot;&gt;&lt;i&gt;冯冰儿&lt;/i&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-7198.75" y="1350.62" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8iIiTADPgSn-rrUCegqI-305">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7170" y="1170" as="sourcePoint" />
-            <mxPoint x="-6330" y="1870" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-5670" y="1110" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ke16l3yXehb4eER1hfoE-17" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="-6390" y="1890" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
