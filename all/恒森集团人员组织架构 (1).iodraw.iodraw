@@ -1041,7 +1041,7 @@
         <mxCell id="ke16l3yXehb4eER1hfoE-26" value="&lt;span style=&quot;color: rgb(69, 69, 69); font-size: 11px; font-weight: 400; white-space: nowrap;&quot;&gt;毛小涛&lt;/span&gt;&lt;br style=&quot;color: rgb(69, 69, 69); font-size: 11px; font-weight: 400; white-space: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(69, 69, 69); font-size: 11px; font-weight: 400; white-space: nowrap;&quot;&gt;曾金艳&lt;/span&gt;&lt;br style=&quot;color: rgb(69, 69, 69); font-size: 11px; font-weight: 400; white-space: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(69, 69, 69); font-size: 11px; font-weight: 400; white-space: nowrap;&quot;&gt;肖霞&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-5453" y="1928.2099999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ke16l3yXehb4eER1hfoE-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-8" target="8iIiTADPgSn-rrUCegqI-227">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-8180" y="1900" as="sourcePoint" />
             <mxPoint x="-8020" y="1900" as="targetPoint" />
