@@ -411,6 +411,9 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-131" value="&lt;b&gt;精工&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-7686.25" y="1690.28" width="67" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ke16l3yXehb4eER1hfoE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-132" target="8iIiTADPgSn-rrUCegqI-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-132" value="&lt;b&gt;锻压&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-7148.75" y="1690.28" width="67" height="60" as="geometry" />
         </mxCell>
