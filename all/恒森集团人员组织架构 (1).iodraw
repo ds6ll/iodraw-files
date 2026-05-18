@@ -669,10 +669,10 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-48" target="8iIiTADPgSn-rrUCegqI-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-48" value="&lt;b&gt;球阀&lt;/b&gt;&lt;div&gt;&lt;b&gt;蒋利永&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;glass=0;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-48" value="&lt;b&gt;球阀&lt;/b&gt;&lt;div&gt;&lt;b&gt;蒋利永&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="-10370" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-49" value="&lt;b&gt;温控&lt;/b&gt;&lt;div&gt;&lt;b&gt;刘秋月&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-49" value="&lt;b&gt;温控&lt;/b&gt;&lt;div&gt;&lt;b&gt;刘秋月&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-10240" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-50" value="&lt;b&gt;卡套&lt;/b&gt;&lt;div&gt;&lt;b&gt;邹良海&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
