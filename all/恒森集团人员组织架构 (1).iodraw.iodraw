@@ -638,11 +638,6 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-202" value="&lt;h2&gt;综合管理部&lt;/h2&gt;&lt;h3&gt;&lt;b&gt;邵陈光&lt;/b&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4845" y="1563.37" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-203">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-6692.608695652174" y="1949.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-203" value="&lt;h2&gt;档案室&lt;/h2&gt;&lt;div&gt;&lt;b&gt;唐银燕&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5300" y="1933.46" width="120" height="66.23" as="geometry" />
         </mxCell>
@@ -1093,7 +1088,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-211" value="&lt;h2&gt;行政&lt;/h2&gt;&lt;h3&gt;傅天立&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=middle;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-4818.5" y="1691.06" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.129;entryY=0.243;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-282" target="8iIiTADPgSn-rrUCegqI-240">
+        <mxCell id="ke16l3yXehb4eER1hfoE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-282" target="8iIiTADPgSn-rrUCegqI-203">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
