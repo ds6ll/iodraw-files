@@ -158,13 +158,13 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-50" value="&lt;b&gt;卡套&lt;/b&gt;&lt;div&gt;邹良海&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10077" y="1879.8700000000001" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-51" value="&lt;b&gt;制冷阀&lt;/b&gt;&lt;div&gt;&lt;b&gt;王彬&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-51" value="&lt;b&gt;制冷阀&lt;/b&gt;&lt;div&gt;王彬&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-9817" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-53" target="8iIiTADPgSn-rrUCegqI-186" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-53" value="&lt;b&gt;注塑&lt;/b&gt;&lt;div&gt;&lt;b&gt;熊光耀&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-53" value="&lt;b&gt;注塑&lt;/b&gt;&lt;div&gt;熊光耀&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-9947" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-56" target="8iIiTADPgSn-rrUCegqI-73" edge="1">
