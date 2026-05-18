@@ -718,6 +718,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ke16l3yXehb4eER1hfoE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-227">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-6250" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-227" value="&lt;h2&gt;PMC中心&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-6245" y="1370.12" width="185" height="121" as="geometry" />
         </mxCell>
