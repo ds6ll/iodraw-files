@@ -652,7 +652,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-206" value="&lt;h2&gt;人事&lt;/h2&gt;&lt;h2&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;傅天立&lt;/span&gt;&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-5217" y="1691.06" width="67" height="60" as="geometry" />
+          <mxGeometry x="-5280" y="1686.99" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-211" target="8iIiTADPgSn-rrUCegqI-216" edge="1">
           <mxGeometry relative="1" as="geometry">
