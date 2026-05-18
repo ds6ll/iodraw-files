@@ -9,7 +9,7 @@
             <mxPoint x="-6510" y="1745.9899999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-2" value="&lt;h2&gt;采购&lt;/h2&gt;&lt;div&gt;袁建峰&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-2" value="&lt;h2&gt;采购&lt;/h2&gt;&lt;div&gt;袁建峰&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-6570" y="1625.9299999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-4" value="&lt;b&gt;王秋萍&lt;br&gt;冯国杰&lt;/b&gt;&lt;div&gt;&lt;b&gt;何伟芳&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;金何彬&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;潘珠婷&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;斯丹艳&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;张云丽&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;周婷婷&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fontFamily=Helvetica;fontSize=11;fontColor=#454545;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=default;" parent="1" vertex="1">
@@ -1030,7 +1030,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-322" target="8iIiTADPgSn-rrUCegqI-240" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-322" value="&lt;h2&gt;钱海超&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-322" value="&lt;h2&gt;钱海超&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5860" y="1625.9299999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-39" value="&lt;b&gt;模具&lt;/b&gt;&lt;div&gt;&lt;b&gt;唐明祥&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
