@@ -621,25 +621,25 @@
             <mxPoint x="-9221.999999999998" y="1539.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-32" value="&lt;b&gt;液压平面&lt;/b&gt;&lt;div&gt;&lt;b&gt;王先锋&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-32" value="&lt;b&gt;液压平面&lt;/b&gt;&lt;div&gt;&lt;b&gt;王先锋&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8770" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-34" target="8iIiTADPgSn-rrUCegqI-180" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-34" value="&lt;b&gt;拉管下料&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-34" value="&lt;b&gt;拉管下料&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8380" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-35" value="&lt;b&gt;包装&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-35" value="&lt;b&gt;包装&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8640" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-36" value="&lt;b&gt;焊接&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-36" value="&lt;b&gt;焊接&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8900" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-38" target="8iIiTADPgSn-rrUCegqI-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-38" value="&lt;b&gt;抛光&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-38" value="&lt;b&gt;抛光&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8510" y="1880.56" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-39" value="&lt;b&gt;模具&lt;/b&gt;&lt;div&gt;&lt;b&gt;唐明祥&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
@@ -909,7 +909,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-127" value="&lt;b&gt;阀体&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-8130" y="1805.06" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-128" value="&lt;b&gt;数控&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-128" value="&lt;b&gt;数控&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8270" y="1805.06" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-129" value="&lt;b&gt;装配&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
