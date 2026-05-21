@@ -1093,7 +1093,7 @@
             <mxPoint x="-7225.75" y="1432.9299999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ke16l3yXehb4eER1hfoE-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;俞陈煜&lt;/font&gt;&lt;/b&gt;&lt;br&gt;金柳灵" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="ke16l3yXehb4eER1hfoE-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;俞陈煜&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;金柳灵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-7023" y="1690.28" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ke16l3yXehb4eER1hfoE-26" value="毛小涛&#xa;曾金艳&#xa;肖霞" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
