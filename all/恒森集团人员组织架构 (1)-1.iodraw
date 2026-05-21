@@ -119,7 +119,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-35" value="包装" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8607" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-36" value="焊接" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-36" value="焊接" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-8867" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-38" target="8iIiTADPgSn-rrUCegqI-179" edge="1">
