@@ -116,7 +116,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-34" value="拉管下料" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-8347" y="1880.4299999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-35" value="包装" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-35" value="包装" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-8607" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-36" value="焊接" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
