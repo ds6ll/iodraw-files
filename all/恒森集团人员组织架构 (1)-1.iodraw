@@ -775,7 +775,7 @@
             <mxPoint x="-6080" y="1975.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-238" value="仓储" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-238" value="仓储" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6140" y="1871.6799999999998" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ke16l3yXehb4eER1hfoE-26" edge="1">
@@ -784,43 +784,43 @@
             <mxPoint x="-5381.5" y="2006.9599999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-240" value="计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-240" value="计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5440" y="1871.6799999999998" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-241" value="成品仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-241" value="成品仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6220" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-243" target="8iIiTADPgSn-rrUCegqI-257" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-243" value="原材料仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-243" value="原材料仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6040" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-245" target="8iIiTADPgSn-rrUCegqI-258" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-245" value="资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-245" value="资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5920" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-246" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-246" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6340" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-247" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-247" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5800" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-249" target="8iIiTADPgSn-rrUCegqI-254" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-249" value="电子仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-249" value="电子仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6460" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-250" value="立体仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-250" value="立体仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6580" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-251" value="电子半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-251" value="电子半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5680" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-252" value="智控半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-252" value="智控半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5560" y="2026.1799999999998" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-253" value="华银宝&#xa;陆潇&#xa;陈磊" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;" parent="1" vertex="1">
