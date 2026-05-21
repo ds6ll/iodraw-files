@@ -1082,7 +1082,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-322" value="钱海超" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5900" y="1746.9899999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;模具&lt;/font&gt;&lt;/b&gt;&lt;br&gt;唐明祥" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;模具&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;唐明祥&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-9542" y="1880.43" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;气动转床&lt;/font&gt;&lt;/b&gt;&lt;br&gt;周建武" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
