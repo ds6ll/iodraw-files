@@ -171,7 +171,7 @@
           <mxGeometry x="-2389" y="1270" width="165" height="121" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;注塑&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;詹晶晶&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2800.5" y="1520" width="137" height="81" as="geometry" />
+          <mxGeometry x="-2726" y="1520" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;线圈车间&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;张选宇&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2024" y="1410" width="227" height="76.99" as="geometry" />
@@ -180,7 +180,7 @@
           <mxGeometry x="-2370" y="1510" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-68" value="阀体" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-3143.5" y="1520" width="137" height="81" as="geometry" />
+          <mxGeometry x="-3240" y="1520" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;阀体车间&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;殷明科&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2816" y="1410" width="227" height="76.99" as="geometry" />
@@ -1090,7 +1090,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数控&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;冯伟&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2953.5" y="1520" width="137" height="81" as="geometry" />
+          <mxGeometry x="-3103" y="1520" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;B班&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;姚子彬&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3135" y="1630.2799999999997" width="120" height="67.44" as="geometry" />
