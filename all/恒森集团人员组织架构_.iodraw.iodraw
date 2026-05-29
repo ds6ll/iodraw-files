@@ -257,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-81" value="走心机" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-2885" y="1639.8899999999999" width="120" height="67.44" as="geometry" />
+          <mxGeometry x="-2880" y="1639.8899999999999" width="120" height="67.44" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-83" target="8iIiTADPgSn-rrUCegqI-156" edge="1">
           <mxGeometry relative="1" as="geometry" />
