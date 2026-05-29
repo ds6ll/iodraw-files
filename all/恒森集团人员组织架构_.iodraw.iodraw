@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="m6oA7Dtd9NLX9S7iKt2o">
-    <mxGraphModel dx="14852" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="14377" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1112,10 +1112,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tGwGAiV-t9aRC4OMFE1r-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;智控制造中心&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#ff0000&quot;&gt;江会宇&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-9817" y="1384" width="185" height="121" as="geometry" />
+          <mxGeometry x="-10500" y="940" width="185" height="121" as="geometry" />
         </mxCell>
         <mxCell id="tGwGAiV-t9aRC4OMFE1r-2" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;注&lt;/font&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;塑&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 23px;&quot; color=&quot;#ff0000&quot;&gt;熊光耀&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-9810" y="1530" width="137" height="81" as="geometry" />
+          <mxGeometry x="-10493" y="1086" width="137" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
