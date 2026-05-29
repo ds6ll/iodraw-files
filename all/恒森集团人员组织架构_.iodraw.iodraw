@@ -204,7 +204,7 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-64" value="精工" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-2639.5" y="1520" width="137" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="tGwGAiV-t9aRC4OMFE1r-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-68" target="8iIiTADPgSn-rrUCegqI-75">
+        <mxCell id="tGwGAiV-t9aRC4OMFE1r-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-68" target="8iIiTADPgSn-rrUCegqI-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-68" value="阀体" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
