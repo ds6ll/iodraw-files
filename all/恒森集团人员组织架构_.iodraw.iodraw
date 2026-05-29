@@ -499,16 +499,6 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-150" target="8iIiTADPgSn-rrUCegqI-159" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-150" target="8iIiTADPgSn-rrUCegqI-161" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1256.5" y="1715.9999999999998" as="sourcePoint" />
-            <mxPoint x="-825" y="1916.06" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1256" y="1757.06" />
-              <mxPoint x="-800" y="1757.06" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-150" value="屠勇 王俊杰" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1290" y="1650" width="137" height="81" as="geometry" />
         </mxCell>
