@@ -527,7 +527,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-150" value="屠勇 王俊杰" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="8iIiTADPgSn-rrUCegqI-150" value="屠勇 王俊杰" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1979" y="1523" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-151" value="张伟&#xa;王飞&#xa;王敏&#xa;周哲玲&#xa;    阿呷约扎 " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;labelBackgroundColor=none;labelBorderColor=none;fontColor=#f90126;whiteSpace=wrap;" parent="1" vertex="1">
