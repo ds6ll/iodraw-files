@@ -1128,9 +1128,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGwGAiV-t9aRC4OMFE1r-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-322" target="8iIiTADPgSn-rrUCegqI-202">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-322" value="钱海超" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-5505" y="1422.9999999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
