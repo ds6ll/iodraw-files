@@ -857,7 +857,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-240" value="计划" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="-5440" y="1871.6799999999998" width="137" height="81" as="geometry" />
+          <mxGeometry x="-5270" y="1535.06" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-241" value="成品仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6220" y="2026.1799999999998" width="67" height="60" as="geometry" />
