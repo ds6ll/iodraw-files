@@ -842,11 +842,6 @@
             <mxPoint x="-6070" y="1975.12" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-237" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-238" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-6080" y="1975.12" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-238" value="仓储" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="-5642" y="1530" width="137" height="81" as="geometry" />
         </mxCell>
