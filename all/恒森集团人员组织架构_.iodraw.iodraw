@@ -400,7 +400,7 @@
           <mxGeometry x="-8022.5" y="1562.8999999999999" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-122" value="周东东" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontColor=#FF0000;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-6779" y="1690.28" width="67" height="60" as="geometry" />
+          <mxGeometry x="-6067" y="1530" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-124" target="8iIiTADPgSn-rrUCegqI-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
