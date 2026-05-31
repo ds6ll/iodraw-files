@@ -821,13 +821,13 @@
           <mxGeometry x="-5532" y="1631.0600000000002" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-246" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-5748" y="1631.06" width="67" height="60" as="geometry" />
+          <mxGeometry x="-5755" y="1631.06" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-247" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-5457" y="1631.0600000000002" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-249" value="电子仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-5808" y="1631.06" width="67" height="60" as="geometry" />
+          <mxGeometry x="-5829" y="1631.06" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-250" value="立体仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6580" y="2026.1799999999998" width="67" height="60" as="geometry" />
