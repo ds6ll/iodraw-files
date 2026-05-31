@@ -802,6 +802,9 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-227" value="PMC中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="-5690" y="1270" width="185" height="121" as="geometry" />
         </mxCell>
+        <mxCell id="tGwGAiV-t9aRC4OMFE1r-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-238" target="8iIiTADPgSn-rrUCegqI-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-238" value="仓储" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="-5642" y="1530" width="137" height="81" as="geometry" />
         </mxCell>
