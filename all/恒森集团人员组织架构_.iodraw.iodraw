@@ -119,16 +119,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数控&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;李贻盛&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9176" y="1535.0600000000002" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9181" y="1535.0600000000002" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;铁阀&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-8644.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-8645.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-45" target="8iIiTADPgSn-rrUCegqI-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;锻压&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;徐志祥&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-8779.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-8784.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-46" value="设备" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-8506.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
@@ -137,22 +137,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;球阀&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;蒋利永&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9844.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9849.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;温控&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;刘秋月&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9714.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9719.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;卡套&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;邹良海&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9584.5" y="1535.0600000000002" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9589.5" y="1535.0600000000002" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;制冷阀&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;王彬&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9324.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9329.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-53" target="8iIiTADPgSn-rrUCegqI-186" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;注塑&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;熊光耀&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9454.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9459.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="tGwGAiV-t9aRC4OMFE1r-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-56" target="8iIiTADPgSn-rrUCegqI-73">
           <mxGeometry relative="1" as="geometry">
@@ -626,49 +626,49 @@
           <mxGeometry x="-7789.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-181" value="杨金妹&#xa;陈月明&#xa;曾培春&#xa;萧涛&#xa;李江华&#xa;胡贵平" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;horizontal=1;textShadow=0;spacingTop=0;spacing=2;spacingLeft=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9827.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9832.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-182" value="罗善贵&lt;br style=&quot;font-size: 11px;&quot;&gt;朱祝苗&lt;br style=&quot;font-size: 11px;&quot;&gt;唐顺华&lt;br style=&quot;font-size: 11px;&quot;&gt;龙三明&lt;br style=&quot;font-size: 11px;&quot;&gt;唐海玲&lt;br style=&quot;font-size: 11px;&quot;&gt;黎红英&lt;br style=&quot;font-size: 11px;&quot;&gt;黄家仙&lt;br style=&quot;font-size: 11px;&quot;&gt;王关飞&lt;br style=&quot;font-size: 11px;&quot;&gt;方建浩&lt;br style=&quot;font-size: 11px;&quot;&gt;田春华&lt;br style=&quot;font-size: 11px;&quot;&gt;刘伦琼&lt;br style=&quot;font-size: 11px;&quot;&gt;李群香&lt;br style=&quot;font-size: 11px;&quot;&gt;冯佩&lt;br style=&quot;font-size: 11px;&quot;&gt;师广淼&lt;br style=&quot;font-size: 11px;&quot;&gt;陈凯&lt;br style=&quot;font-size: 11px;&quot;&gt;彭瑶&lt;br style=&quot;font-size: 11px;&quot;&gt;彭磊&lt;br style=&quot;font-size: 11px;&quot;&gt;杨娟" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9697.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9702.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-49" target="8iIiTADPgSn-rrUCegqI-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-184" value="冉爱荣&#xa;胡开华&#xa;刘桃香&#xa;黄玉仪&#xa;蒋兵中&#xa;陈小红&#xa;蒋翠&#xa;周春华&#xa;欧秋敏&#xa;张丽燕&#xa;金亮娥&#xa;田玉秀&#xa;刘园园" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingBottom=0;spacingRight=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9567.5" y="1655.1900000000003" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9572.5" y="1655.1900000000003" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-50" target="8iIiTADPgSn-rrUCegqI-184" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-186" value="何水良&#xa;李江社&#xa;陈兴琼&#xa;王雪萍&#xa;张平虎" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9437.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9442.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-187" value="肖鸣凤&#xa;陈仁义&#xa;王惠东&#xa;陈晓情&#xa;杨春宝&#xa;宋天威&#xa;侯丽华&#xa;陈聪&#xa;袁付霞&#xa;郑先利&#xa;何富强&#xa;何鑫&#xa;黄南&#xa;陶义萍&#xa;何发勇" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9307.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9312.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-51" target="8iIiTADPgSn-rrUCegqI-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-189" value="魏春阳&#xa;唐保国&#xa;何欧阳&#xa;何高祥&#xa;张官军&#xa;蒋纪洪&#xa;何伟均&#xa;李贻富&#xa;王双林&#xa;李立堂&#xa;郑金&#xa;徐煌斌&#xa;唐德发&#xa;桂美成&#xa;陈锦涛&#xa;艾奇坤&#xa;曾瑞云&#xa;胡艳春&#xa;陆自波&#xa;王少锋" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9159" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9164" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-190" value="周光伟&#xa;叶宝健&#xa;潘郦锋&#xa;包忠米&#xa;何林锋&#xa;虞建成&#xa;曾敏&#xa;谢全贵&#xa;陈奇锋&#xa;唐申" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-9032.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-9037.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-39" target="8iIiTADPgSn-rrUCegqI-190" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-192" value="蒋初元&#xa;李丽英&#xa;周海罗&#xa;胡开群&#xa;胡安华&#xa;王满珍&#xa;何华龙&#xa;刘大成&#xa;吴明瑶&#xa;何仲明&#xa;周光艳&#xa;何小江&#xa;张金建" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-8897.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-8902.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-40" target="8iIiTADPgSn-rrUCegqI-192" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-194" value="罗华林&#xa;阮均&#xa;张耀吉&#xa;周建鹏&#xa;游国平&#xa;文杰" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-8762.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-8767.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-195" value="何水冬" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-8627.5" y="1655.19" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-8628.5" y="1655.19" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-43" target="8iIiTADPgSn-rrUCegqI-195" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1151,10 +1151,10 @@
           <mxGeometry x="-5505" y="1422.9999999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;模具&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;唐明祥&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-9049.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-9054.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;气动转床&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;周建武&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="-8914.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
+          <mxGeometry x="-8919.5" y="1535.6200000000001" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ke16l3yXehb4eER1hfoE-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;俞陈煜&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;金柳灵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-6345" y="1530" width="137" height="81" as="geometry" />
