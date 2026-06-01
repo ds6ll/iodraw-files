@@ -423,11 +423,6 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-128" value="数控" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-7672" y="1535.06" width="137" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="tGwGAiV-t9aRC4OMFE1r-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-129">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-6810" y="1650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-129" value="装配" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-6932" y="1535.06" width="137" height="81" as="geometry" />
         </mxCell>
@@ -990,7 +985,7 @@
           <mxGeometry x="-7031.5" y="1631.06" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-279" value="包杭燕&#xa;王春燕" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-6884" y="1631.06" width="50" height="273.94" as="geometry" />
+          <mxGeometry x="-6888.5" y="1633.28" width="50" height="273.94" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-280" value="金迪飞" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=11;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-6745.5" y="1631.06" width="50" height="273.94" as="geometry" />
