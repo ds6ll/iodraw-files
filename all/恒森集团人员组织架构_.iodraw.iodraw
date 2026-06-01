@@ -400,7 +400,7 @@
           <mxGeometry x="-6158" y="1422.9999999999998" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-125" value="线圈" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-7950" y="1690.28" width="137" height="81" as="geometry" />
+          <mxGeometry x="-7390" y="1535.06" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-126" value="注塑" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-7240" y="1535.06" width="137" height="81" as="geometry" />
@@ -956,9 +956,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-125" target="8iIiTADPgSn-rrUCegqI-276" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-286" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-126" target="8iIiTADPgSn-rrUCegqI-277" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-293" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 48px;&quot;&gt;恒森集团&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
