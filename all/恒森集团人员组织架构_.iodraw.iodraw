@@ -507,8 +507,8 @@
         <mxCell id="8iIiTADPgSn-rrUCegqI-140" value="李徐峰&#xa;匡汉祖&#xa;何伟锋" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=15;fontColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-3010.5" y="1789.62" width="50" height="273.94" as="geometry" />
         </mxCell>
-        <mxCell id="8iIiTADPgSn-rrUCegqI-141" value="胡佳科&#xa;魏孟华&#xa;肖江&#xa;骆贤君&#xa;胡炳&#xa;邵顺富&#xa;王海涛&#xa;赵峰" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=16;fontColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="-2841" y="1789.62" width="50" height="273.94" as="geometry" />
+        <mxCell id="8iIiTADPgSn-rrUCegqI-141" value="胡佳科&#xa;魏孟华&#xa;肖江&#xa;骆贤君&#xa;胡炳&#xa;邵顺富&#xa;王海涛&#xa;赵峰" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=18;fontColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="-2851" y="1789.62" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="8iIiTADPgSn-rrUCegqI-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8iIiTADPgSn-rrUCegqI-78" target="8iIiTADPgSn-rrUCegqI-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
