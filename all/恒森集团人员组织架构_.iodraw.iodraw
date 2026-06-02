@@ -1318,7 +1318,7 @@
         <mxCell id="tGwGAiV-t9aRC4OMFE1r-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8iIiTADPgSn-rrUCegqI-126" target="8iIiTADPgSn-rrUCegqI-277">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tGwGAiV-t9aRC4OMFE1r-198" value="何晶松" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="tGwGAiV-t9aRC4OMFE1r-198" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 27px; text-align: left; white-space: nowrap;&quot;&gt;楼绍昌&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-1820" y="1340" width="67" height="60" as="geometry" />
         </mxCell>
       </root>
