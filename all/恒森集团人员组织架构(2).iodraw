@@ -1929,16 +1929,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-176" value="张伟&lt;br&gt;彭建波&lt;br&gt;李贵强&lt;br&gt;杨指辉&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-2160" y="3680" width="70" height="420" as="geometry" />
+          <mxGeometry x="-2170.5" y="3680" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="OwVTh68lkYAFGxSx9ZFM-168" target="OwVTh68lkYAFGxSx9ZFM-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-178" value="&lt;div&gt;宋群&lt;/div&gt;&lt;div&gt;罗羽芯&lt;/div&gt;&lt;div&gt;温会丽&lt;/div&gt;&lt;div&gt;王官祝&lt;/div&gt;&lt;div&gt;高琼&lt;/div&gt;&lt;div&gt;刘艳琴&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-2036" y="3680.34" width="70" height="420" as="geometry" />
+          <mxGeometry x="-2045.5" y="3680" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-180" value="李明&lt;div&gt;王飞&lt;/div&gt;&lt;div&gt;蔡家瑞&lt;/div&gt;&lt;div&gt;郝加琴&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1786" y="3680" width="90" height="420" as="geometry" />
+          <mxGeometry x="-1796" y="3680" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-181" value="易代龙&lt;div&gt;张敏&lt;/div&gt;&lt;div&gt;左智慧&lt;/div&gt;&lt;div&gt;王欢&lt;/div&gt;&lt;div&gt;赵才林&lt;/div&gt;&lt;div&gt;阿呷约扎&lt;/div&gt;&lt;div&gt;朱德豪&lt;/div&gt;&lt;div&gt;徐彩芳&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1678" y="3680" width="90" height="420" as="geometry" />
@@ -1950,7 +1950,7 @@
           <mxGeometry x="-1563" y="3566.5600000000004" width="120" height="67.44" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-184" value="刘常贵&lt;div&gt;周哲玲&lt;/div&gt;&lt;div&gt;王青&lt;/div&gt;&lt;div&gt;王盼红&lt;/div&gt;&lt;div&gt;苏羽&lt;/div&gt;&lt;div&gt;阿衣以金&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;labelBackgroundColor=none;labelBorderColor=none;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1538" y="3680" width="70" height="420" as="geometry" />
+          <mxGeometry x="-1538" y="3680" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-185" value="司浩平&#xa;王利磊&#xa;杨鹏宇" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2325.5" y="3568.2200000000003" width="70" height="420" as="geometry" />
