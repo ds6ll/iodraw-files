@@ -1802,7 +1802,7 @@
           <mxGeometry x="-1939" y="3353.37" width="227" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-145" value="精工" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=27;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-2359" y="3463" width="137" height="81" as="geometry" />
+          <mxGeometry x="-2065" y="4970" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=27;fontColor=#000000;" parent="1" source="OwVTh68lkYAFGxSx9ZFM-149" target="OwVTh68lkYAFGxSx9ZFM-193" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1943,7 +1943,7 @@
           <mxGeometry x="-1548" y="3680" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-185" value="司浩平&#xa;王利磊&#xa;杨鹏宇" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-2325.5" y="3568.2200000000003" width="70" height="420" as="geometry" />
+          <mxGeometry x="-2031.5" y="5075.22" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-186" value="陈海萍&#xa;张美华&#xa;康建辉&#xa;蒋利平&#xa;康健椿&#xa;王婷&#xa;林春燕&#xa;柯文宇&#xa;陈伯方&#xa;滕春花&#xa;王陈楠&#xa;赵菊美&#xa;曹秋元&#xa;蔡玲慧&#xa;何永权&#xa;赵夕&#xa;何飞君&#xa;何华丽&#xa;祝秀珍&#xa;石彩霞&#xa;唐婕&#xa;傅灵杰&#xa;魏洪&#xa;邱乌卡&#xa;陈泽菊&#xa;汪鑫豪&#xa;张龙&#xa;蒙炳丽" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2486.5" y="3570.34" width="70" height="749.66" as="geometry" />
