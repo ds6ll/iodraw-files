@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="m6oA7Dtd9NLX9S7iKt2o">
-    <mxGraphModel dx="12757" dy="-118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="12526" dy="-265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1657,16 +1657,16 @@
           <mxGeometry x="-3937.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-113" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4170" y="3291.06" width="67" height="60" as="geometry" />
+          <mxGeometry x="-4162" y="3291.06" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-114" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3862.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-115" value="电子仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4255" y="3292.5" width="67" height="60" as="geometry" />
+          <mxGeometry x="-4247" y="3292.5" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-116" value="立库仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4345" y="3292.5" width="67" height="60" as="geometry" />
+          <mxGeometry x="-4337" y="3292.5" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-117" value="电子半成品" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3787.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
@@ -1675,13 +1675,13 @@
           <mxGeometry x="-3712.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-119" value="华银宝&lt;br style=&quot;font-size: 22px;&quot;&gt;陆潇&lt;br style=&quot;font-size: 22px;&quot;&gt;何国豪" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4346.5" y="3381.44" width="70" height="420" as="geometry" />
+          <mxGeometry x="-4338.5" y="3381.44" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-120" value="萧忠" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4256.5" y="3381.44" width="70" height="420" as="geometry" />
+          <mxGeometry x="-4248.5" y="3381.44" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-121" value="金晓华" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4171.5" y="3380" width="70" height="420" as="geometry" />
+          <mxGeometry x="-4163.5" y="3380" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-122" value="何金芳&lt;br&gt;包伟兴&lt;br&gt;蒋成鑫&lt;br&gt;沈国平" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4088" y="3380" width="70" height="420" as="geometry" />
