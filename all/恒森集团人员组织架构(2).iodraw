@@ -1908,7 +1908,7 @@
           <mxGeometry x="-2915" y="3663" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-173" value="李徐峰&#xa;匡汉祖&#xa;何伟锋" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-2819" y="3729.62" width="90" height="420" as="geometry" />
+          <mxGeometry x="-2830.25" y="3729.62" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-174" value="胡加科&lt;br&gt;魏孟华&lt;br&gt;肖江&lt;br&gt;骆贤君&lt;br&gt;胡炳&lt;br&gt;邵顺富&lt;br&gt;王海涛&lt;br&gt;赵峰" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-2530.5" y="3729.62" width="90" height="420" as="geometry" />
@@ -1947,7 +1947,7 @@
           <mxGeometry x="-2730.5" y="3653" width="70.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-188" value="邵旭辉&#xa;周孝恩&#xa;魏佳涛" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-2732" y="3729.62" width="90" height="420" as="geometry" />
+          <mxGeometry x="-2740.25" y="3729.62" width="90" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="OwVTh68lkYAFGxSx9ZFM-165" target="OwVTh68lkYAFGxSx9ZFM-178" edge="1">
           <mxGeometry relative="1" as="geometry" />
