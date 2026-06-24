@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="m6oA7Dtd9NLX9S7iKt2o">
-    <mxGraphModel dx="13113" dy="109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="12946" dy="3" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2317,7 +2317,7 @@
           <mxGeometry x="-11768.5" y="3515.14" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-280" value="罗善贵&lt;br style=&quot;font-size: 22px;&quot;&gt;朱祝苗&lt;br style=&quot;font-size: 22px;&quot;&gt;唐顺华&lt;br style=&quot;font-size: 22px;&quot;&gt;龙三明&lt;br style=&quot;font-size: 22px;&quot;&gt;唐海玲&lt;br style=&quot;font-size: 22px;&quot;&gt;黎红英&lt;br style=&quot;font-size: 22px;&quot;&gt;黄家仙&lt;br style=&quot;font-size: 22px;&quot;&gt;王关飞&lt;br style=&quot;font-size: 22px;&quot;&gt;田春华&lt;br style=&quot;font-size: 22px;&quot;&gt;刘伦琼&lt;br style=&quot;font-size: 22px;&quot;&gt;李群香&lt;br style=&quot;font-size: 22px;&quot;&gt;冯佩&lt;br style=&quot;font-size: 22px;&quot;&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;strokeColor=default;spacingLeft=0;spacingTop=0;spacing=0;fillColor=default;spacingRight=0;spacingBottom=0;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-11629.5" y="3515.14" width="70" height="494.86" as="geometry" />
+          <mxGeometry x="-11629.5" y="3515.14" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;fontSize=22;" parent="1" source="OwVTh68lkYAFGxSx9ZFM-242" target="OwVTh68lkYAFGxSx9ZFM-280" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2549,7 +2549,7 @@
           <mxGeometry x="-11098" y="3410.87" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="EHr46OZAMEY5K5K32Ekb-33" value="师广淼&lt;br&gt;陈凯&lt;br&gt;彭瑶&lt;br&gt;彭磊&lt;br&gt;杨娟&lt;br&gt;方建浩&lt;div&gt;陈仁义&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;horizontal=1;textShadow=0;spacingTop=0;spacing=2;spacingLeft=0;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-11880" y="3410" width="70" height="420" as="geometry" />
+          <mxGeometry x="-11872" y="3516.53" width="70" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
