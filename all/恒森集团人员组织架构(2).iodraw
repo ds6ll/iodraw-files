@@ -2548,6 +2548,9 @@
         <mxCell id="EHr46OZAMEY5K5K32Ekb-30" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;自动数控&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-11098" y="3410.87" width="137" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="EHr46OZAMEY5K5K32Ekb-33" value="杨金妹&lt;br&gt;陈月明&lt;br&gt;曾培春&lt;br&gt;萧涛&lt;br&gt;李江华&lt;br&gt;胡贵平&lt;div&gt;胡体强&lt;/div&gt;&lt;div&gt;何空军&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;horizontal=1;textShadow=0;spacingTop=0;spacing=2;spacingLeft=0;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-11758.5" y="3525.14" width="70" height="420" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
