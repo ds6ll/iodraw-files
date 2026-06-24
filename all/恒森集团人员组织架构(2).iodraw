@@ -2272,7 +2272,7 @@
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-270" value="石丹" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="-10297.5" y="3174.3600000000006" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OwVTh68lkYAFGxSx9ZFM-271" value="王伟灿&#xa;周金香&#xa;胡海华&#xa;邵八英&#xa;李桂连&#xa;唐建华&#xa;阮利美&#xa;何小红&#xa;郭建民&#xa;敖小凤&#xa;张文祥&#xa;彭毅&#xa;鲁华&#xa;王江锋&#xa;金建国&#xa;王永烈&#xa;翁老四" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OwVTh68lkYAFGxSx9ZFM-271" value="周金香&lt;br&gt;胡海华&lt;br&gt;邵八英&lt;br&gt;李桂连&lt;br&gt;唐建华&lt;br&gt;阮利美&lt;br&gt;何小红&lt;br&gt;郭建民&lt;br&gt;敖小凤&lt;br&gt;彭毅&lt;br&gt;鲁华&lt;br&gt;王江锋&lt;br&gt;金建国&lt;br&gt;王永烈&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-9945.5" y="3515.14" width="70" height="504.86" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="1" source="OwVTh68lkYAFGxSx9ZFM-227" target="OwVTh68lkYAFGxSx9ZFM-271" edge="1">
@@ -2293,7 +2293,7 @@
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-277" value="何宝富&#xa;冯汉良&#xa;何勤永" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-9667.5" y="3515.14" width="70" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="OwVTh68lkYAFGxSx9ZFM-278" value="金国均&#xa;胡云迁&#xa;彭建国&#xa;何勇" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="OwVTh68lkYAFGxSx9ZFM-278" value="金国均&lt;br&gt;彭建国&lt;br&gt;何勇" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-9528.5" y="3515.14" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-279" value="杨金妹&#xa;陈月明&#xa;曾培春&#xa;萧涛&#xa;李江华&#xa;胡贵平" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;verticalAlign=top;horizontal=1;textShadow=0;spacingTop=0;spacing=2;spacingLeft=0;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
