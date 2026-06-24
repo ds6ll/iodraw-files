@@ -1657,7 +1657,7 @@
           <mxGeometry x="-3937.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-113" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4170" y="3291.06" width="76.5" height="60" as="geometry" />
+          <mxGeometry x="-4170" y="3291.06" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OwVTh68lkYAFGxSx9ZFM-114" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3862.5" y="3291.0600000000004" width="67" height="60" as="geometry" />
