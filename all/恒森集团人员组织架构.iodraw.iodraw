@@ -3584,10 +3584,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-24" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;信息&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;陆鲁&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-6480" y="3531" width="137" height="81" as="geometry" />
+          <mxGeometry x="-6497" y="3531" width="137" height="81" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-25" value="王开海" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontColor=#000000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-6445" y="3634.0000000000005" width="67" height="60" as="geometry" />
+          <mxGeometry x="-6462" y="3634.0000000000005" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oge0YOlqvm6foYSwuLh4-27">
           <mxGeometry relative="1" as="geometry">
@@ -3700,6 +3700,7 @@
             <Array as="points">
               <mxPoint x="-6670" y="3461" />
               <mxPoint x="-6411" y="3461" />
+              <mxPoint x="-6411" y="3531" />
             </Array>
           </mxGeometry>
         </mxCell>
