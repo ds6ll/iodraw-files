@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="m6oA7Dtd9NLX9S7iKt2o">
-    <mxGraphModel dx="21153" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="19720" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="6000" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2544,7 +2544,13 @@
         <mxCell id="XkH8BNvPg-r-hzIpBvPG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XkH8BNvPg-r-hzIpBvPG-1" target="OwVTh68lkYAFGxSx9ZFM-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XkH8BNvPg-r-hzIpBvPG-1" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;综合管理部&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;邵陈光&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="XkH8BNvPg-r-hzIpBvPG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XkH8BNvPg-r-hzIpBvPG-1" target="EHr46OZAMEY5K5K32Ekb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkH8BNvPg-r-hzIpBvPG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XkH8BNvPg-r-hzIpBvPG-1" target="OwVTh68lkYAFGxSx9ZFM-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XkH8BNvPg-r-hzIpBvPG-1" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;PMC中心&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;谭晓冬&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-4031.5" y="2990" width="185" height="121" as="geometry" />
         </mxCell>
       </root>
