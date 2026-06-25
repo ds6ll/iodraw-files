@@ -3625,7 +3625,7 @@
           <mxGeometry x="-6611" y="3722.5" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-37" value="总经办" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=default;fontStyle=1;fontSize=27;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-7170" y="3270" width="185" height="121" as="geometry" />
+          <mxGeometry x="-7114" y="3270" width="185" height="121" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -3707,7 +3707,7 @@
           <mxGeometry x="-6763" y="3271" width="185" height="121" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-56" value="匡汉祎&lt;div style=&quot;font-size: 22px;&quot;&gt;王榕&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-7112.5" y="3470" width="70" height="420" as="geometry" />
+          <mxGeometry x="-7056.5" y="3470" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oge0YOlqvm6foYSwuLh4-37" target="oge0YOlqvm6foYSwuLh4-56">
           <mxGeometry relative="1" as="geometry" />
