@@ -3598,10 +3598,10 @@
           <mxGeometry x="-6573.5" y="3541.5000000000005" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-28" value="&lt;b style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;车队&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;陈利兴&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=default;align=center;fillColor=default;fontSize=12;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-6701.5" y="3632.0600000000004" width="67" height="60" as="geometry" />
+          <mxGeometry x="-6704" y="3634.0000000000005" width="67" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-29" value="何军超&#xa;宋康&#xa;孙凯军&#xa;张俊" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-6703" y="3721" width="70" height="420" as="geometry" />
+          <mxGeometry x="-6705.5" y="3722.94" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="oge0YOlqvm6foYSwuLh4-28" target="oge0YOlqvm6foYSwuLh4-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3614,8 +3614,8 @@
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-6639" y="3762.06" as="sourcePoint" />
-            <mxPoint x="-6639" y="3762.06" as="targetPoint" />
+            <mxPoint x="-6641.5" y="3764" as="sourcePoint" />
+            <mxPoint x="-6641.5" y="3764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="oge0YOlqvm6foYSwuLh4-40" target="oge0YOlqvm6foYSwuLh4-1" edge="1">
