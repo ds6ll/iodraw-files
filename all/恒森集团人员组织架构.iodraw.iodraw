@@ -3525,7 +3525,7 @@
         <mxCell id="oge0YOlqvm6foYSwuLh4-7" value="&lt;b style=&quot;font-size: 27px;&quot;&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;国际贸易部&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;何璐娜&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-5487" y="3410.87" width="137" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="oge0YOlqvm6foYSwuLh4-8" value="何佳秀&#xa;杨慧" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="oge0YOlqvm6foYSwuLh4-8" value="何佳秀&lt;br&gt;杨慧&lt;div&gt;傅美玲&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-5453.5" y="3626.56" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="oge0YOlqvm6foYSwuLh4-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;fontColor=#000000;" parent="1" source="oge0YOlqvm6foYSwuLh4-7" target="oge0YOlqvm6foYSwuLh4-8" edge="1">
