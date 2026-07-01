@@ -3153,7 +3153,7 @@
         <mxCell id="gBJ_xhug2bP3UB4gFJPm-5" value="电子、楼宇、资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-3431.5" y="2713" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gBJ_xhug2bP3UB4gFJPm-6" value="金晓华" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="gBJ_xhug2bP3UB4gFJPm-6" value="金晓华&lt;div&gt;萧忠&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-3433" y="2801.94" width="70" height="420" as="geometry" />
         </mxCell>
         <mxCell id="gBJ_xhug2bP3UB4gFJPm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" edge="1" parent="1" source="gBJ_xhug2bP3UB4gFJPm-5" target="gBJ_xhug2bP3UB4gFJPm-6">
