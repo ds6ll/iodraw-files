@@ -2829,14 +2829,14 @@
             <mxPoint x="-3826.25" y="2779.0600000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;fontColor=#000000;entryX=0.495;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-13" target="1KAOd66kAFV0kzM4GssL-17" edge="1">
+        <mxCell id="1KAOd66kAFV0kzM4GssL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;fontColor=#000000;entryX=0.495;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-4103" y="2768" />
               <mxPoint x="-4290" y="2768" />
             </Array>
             <mxPoint x="-4141" y="2759" as="sourcePoint" />
-            <mxPoint x="-4304" y="2775" as="targetPoint" />
+            <mxPoint x="-4289.835" y="2779.7799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.004;entryDx=0;entryDy=0;fontSize=27;fontColor=#000000;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-13" target="1KAOd66kAFV0kzM4GssL-19" edge="1">
@@ -2873,9 +2873,6 @@
         <mxCell id="1KAOd66kAFV0kzM4GssL-16" value="资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4101.5" y="2779.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-17" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4323" y="2779.06" width="67" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-18" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4026.5" y="2779.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
@@ -2894,9 +2891,6 @@
         <mxCell id="1KAOd66kAFV0kzM4GssL-24" value="萧忠" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4397.5" y="2869.44" width="70" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-25" value="金晓华" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4324.5" y="2868" width="70" height="420" as="geometry" />
-        </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-26" value="何金芳&lt;br style=&quot;font-size: 22px;&quot;&gt;包伟兴&lt;br style=&quot;font-size: 22px;&quot;&gt;蒋成鑫&lt;br style=&quot;font-size: 22px;&quot;&gt;沈国平" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4252" y="2868" width="70" height="420" as="geometry" />
         </mxCell>
@@ -2908,9 +2902,6 @@
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-30" value="周乐涵&lt;div style=&quot;font-size: 22px;&quot;&gt;丁艺峰&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;俞焕均&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3953" y="2868" width="70" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="1KAOd66kAFV0kzM4GssL-17" target="1KAOd66kAFV0kzM4GssL-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="1KAOd66kAFV0kzM4GssL-14" target="1KAOd66kAFV0kzM4GssL-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -3023,14 +3014,14 @@
             <mxPoint x="-3826.25" y="2779.0600000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;fontColor=#000000;entryX=0.495;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-64" target="1KAOd66kAFV0kzM4GssL-68" edge="1">
+        <mxCell id="1KAOd66kAFV0kzM4GssL-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;fontColor=#000000;entryX=0.495;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-4103" y="2768" />
               <mxPoint x="-4290" y="2768" />
             </Array>
             <mxPoint x="-4141" y="2759" as="sourcePoint" />
-            <mxPoint x="-4304" y="2775" as="targetPoint" />
+            <mxPoint x="-4289.835" y="2779.7799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.004;entryDx=0;entryDy=0;fontSize=27;fontColor=#000000;entryPerimeter=0;" parent="1" source="1KAOd66kAFV0kzM4GssL-64" target="1KAOd66kAFV0kzM4GssL-70" edge="1">
@@ -3067,9 +3058,6 @@
         <mxCell id="1KAOd66kAFV0kzM4GssL-67" value="资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4101.5" y="2779.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-68" value="楼宇仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4323" y="2779.06" width="67" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-69" value="备件仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4026.5" y="2779.0600000000004" width="67" height="60" as="geometry" />
         </mxCell>
@@ -3088,9 +3076,6 @@
         <mxCell id="1KAOd66kAFV0kzM4GssL-75" value="萧忠" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4397.5" y="2869.44" width="70" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-76" value="金晓华" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-4324.5" y="2868" width="70" height="420" as="geometry" />
-        </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-77" value="何金芳&lt;br style=&quot;font-size: 22px;&quot;&gt;包伟兴&lt;br style=&quot;font-size: 22px;&quot;&gt;蒋成鑫&lt;br style=&quot;font-size: 22px;&quot;&gt;沈国平" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4252" y="2868" width="70" height="420" as="geometry" />
         </mxCell>
@@ -3102,9 +3087,6 @@
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-81" value="周乐涵&lt;div style=&quot;font-size: 22px;&quot;&gt;丁艺峰&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;俞焕均&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-3953" y="2868" width="70" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="1KAOd66kAFV0kzM4GssL-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="1KAOd66kAFV0kzM4GssL-68" target="1KAOd66kAFV0kzM4GssL-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;fontColor=#000000;" parent="1" source="1KAOd66kAFV0kzM4GssL-65" target="1KAOd66kAFV0kzM4GssL-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
