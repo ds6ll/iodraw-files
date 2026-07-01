@@ -2767,7 +2767,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sELeoJzH3ODoj2htJ612" name="第 2 页">
-    <mxGraphModel dx="6345" dy="-2206" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="7346" dy="-1657" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2908,6 +2908,9 @@
               <mxPoint x="-4213" y="2765" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gBJ_xhug2bP3UB4gFJPm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1KAOd66kAFV0kzM4GssL-64" target="1KAOd66kAFV0kzM4GssL-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1KAOd66kAFV0kzM4GssL-64" value="仓储&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;王盈盈&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=27;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-4171.5" y="2678" width="137" height="81" as="geometry" />
