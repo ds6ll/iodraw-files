@@ -2945,7 +2945,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gBJ_xhug2bP3UB4gFJPm-5" value="电子、楼宇、资材仓" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-3415.5" y="2736" width="80" height="70" as="geometry" />
+          <mxGeometry x="-3415.5" y="2736" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gBJ_xhug2bP3UB4gFJPm-6" value="&lt;div&gt;萧忠&lt;/div&gt;金晓华&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;包翔&lt;/span&gt;&lt;/div&gt;&lt;div&gt;蔡宇兴&lt;div&gt;萧&lt;span style=&quot;background-color: initial;&quot;&gt;忠&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=center;pointerEvents=1;strokeColor=default;verticalAlign=top;spacingLeft=0;spacingRight=0;spacingTop=0;spacingBottom=0;spacing=0;fillColor=default;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-3417" y="2824.94" width="70" height="420" as="geometry" />
