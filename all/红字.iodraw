@@ -3264,7 +3264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6nt-GMTOwuzsjUTMDcO_" name="第 4 页">
-    <mxGraphModel dx="7065" dy="-2453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="9208" dy="-1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3453,9 +3453,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-6398" y="3242" />
-              <mxPoint x="-6580" y="3242" />
-              <mxPoint x="-6580" y="3240" />
-              <mxPoint x="-6578" y="3240" />
+              <mxPoint x="-6578" y="3242" />
             </Array>
           </mxGeometry>
         </mxCell>
