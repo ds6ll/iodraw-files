@@ -2880,10 +2880,10 @@
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-50" value="堆垛机线序" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-11559" y="706" width="182" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="_JD-7fH2zZ4362oQAJ5S-51" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11375" y="869" width="60" height="30" as="geometry" />
+        <mxCell id="_JD-7fH2zZ4362oQAJ5S-51" value="电机侧" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-11559" y="751" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_JD-7fH2zZ4362oQAJ5S-52" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_JD-7fH2zZ4362oQAJ5S-52" value="驱动侧" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-11238" y="873" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
