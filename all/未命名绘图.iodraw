@@ -2764,7 +2764,7 @@
           <mxGeometry x="-4049.5" y="3130" width="185" height="121" as="geometry" />
         </mxCell>
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-1" value="棕-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11548" y="793" width="60" height="30" as="geometry" />
+          <mxGeometry x="-11554" y="793" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-2" value="红-6" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-11548" y="960" width="60" height="30" as="geometry" />
@@ -2878,10 +2878,10 @@
           <mxGeometry x="-11461" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-50" value="堆垛机线序" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-11559" y="706" width="182" height="42" as="geometry" />
+          <mxGeometry x="-11570" y="711" width="182" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-51" value="电机侧" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11548" y="753" width="60" height="30" as="geometry" />
+          <mxGeometry x="-11554" y="753" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_JD-7fH2zZ4362oQAJ5S-52" value="驱动侧" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-11461" y="753" width="60" height="30" as="geometry" />
