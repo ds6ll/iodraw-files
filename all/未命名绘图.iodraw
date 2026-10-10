@@ -2887,7 +2887,10 @@
           <mxGeometry x="-11461" y="753" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gciUi6_GXvleCFlhhO8K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-12033" y="1296" width="1030" height="507" as="geometry" />
+          <mxGeometry x="-12128" y="1296" width="1125" height="507" as="geometry" />
+        </mxCell>
+        <mxCell id="gciUi6_GXvleCFlhhO8K-2" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-11628" y="1554" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
