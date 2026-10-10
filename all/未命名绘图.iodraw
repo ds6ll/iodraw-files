@@ -2949,8 +2949,8 @@
             <mxPoint x="-11072" y="1673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gciUi6_GXvleCFlhhO8K-24" value="热量集中区域" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11598" y="1492" width="379" height="107" as="geometry" />
+        <mxCell id="gciUi6_GXvleCFlhhO8K-24" value="热量集中区域" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="-12103" y="1670" width="379" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
