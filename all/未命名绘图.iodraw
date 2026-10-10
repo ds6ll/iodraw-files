@@ -2932,10 +2932,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gciUi6_GXvleCFlhhO8K-14" value="空调" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11598" y="1569" width="60" height="30" as="geometry" />
+          <mxGeometry x="-12020.25" y="1351" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gciUi6_GXvleCFlhhO8K-15" value="空调" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-11186" y="1346" width="60" height="30" as="geometry" />
+          <mxGeometry x="-11180.25" y="1351" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
