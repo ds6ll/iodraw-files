@@ -2901,12 +2901,6 @@
         <mxCell id="gciUi6_GXvleCFlhhO8K-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-11190" y="1296" width="79.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gciUi6_GXvleCFlhhO8K-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="gciUi6_GXvleCFlhhO8K-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-12241" y="1793" as="sourcePoint" />
-            <mxPoint x="-11876" y="1773" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
