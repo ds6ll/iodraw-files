@@ -2901,9 +2901,6 @@
         <mxCell id="gciUi6_GXvleCFlhhO8K-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-11190" y="1296" width="79.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gciUi6_GXvleCFlhhO8K-8" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="-12085" y="1664" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
