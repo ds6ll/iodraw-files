@@ -2952,6 +2952,9 @@
         <mxCell id="gciUi6_GXvleCFlhhO8K-24" value="热量集中区域" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;" parent="1" vertex="1">
           <mxGeometry x="-12103" y="1670" width="379" height="107" as="geometry" />
         </mxCell>
+        <mxCell id="UCav5FNt-w9465v5Oyo0-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15764" y="787" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
